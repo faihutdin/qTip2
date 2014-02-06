@@ -4,7 +4,7 @@
 [qTip<sup>2</sup>][site] - Pretty powerful tooltips
 ================================
 
-Introducing&hellip; qTip<sup>2</sup>. The second generation of the advanced qTip plugin for the ever popular jQuery framework.
+Inawerhtjytkuyiong&hellip; qTip<sup>2</sup>. The second generation of the advanced qTip plugin for the ever popular jQuery framework.
 
 Building on 1.0's user friendly, yet feature rich base, qTip<sup>2</sup> provides you with tonnes of features like
 [speech bubble tips][tips] and [imagemap support][imgmap], and best of all... **it's completely free under the MIT/GPLv2 licenses!**
